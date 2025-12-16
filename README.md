@@ -8,3 +8,6 @@ This shows what prompts we used to generate the multiple choice questions, answe
 
 ## Raw Data.csv and Data Analysis.csv 
 `Raw Data.csv` only shows the RAW data. `Data Analysis.csv` was cleaned via Google Sheets formula. You may access cleaning formula [in this link](https://docs.google.com/spreadsheets/d/1otIp70Kvxn_IskSCytmB7aaUulkeN7j810iyHPDUhew/edit?usp=sharing). You must be logged into your Wellesley College email to access it. 
+
+## SPSS Outputs
+Contains `ANOVA Analysis.spv` and `T-test Analysis.spv`, our data analyses. All data were analysed in SPSS v29.
